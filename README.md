@@ -57,10 +57,17 @@ As a Venture for Canada Fellow 🇨🇦 I'm also interested in helping Canadian 
 ### 🌱 I’m currently learning
 
 <div>
-<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby on rails badge" />
+   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby on rails badge" />
+   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby badge" />
+   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular badge" />
+   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript badge" />
 </div>
 
+
+
 ### 📫 Contact Me
+
+
 
 <a href="https://www.linkedin.com/in/j-joshuayoung/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
@@ -69,8 +76,6 @@ As a Venture for Canada Fellow 🇨🇦 I'm also interested in helping Canadian 
 <a href="mailto:jamesjoshuayoung@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge" />
 </a>
-
-
 
 
 
