@@ -2,12 +2,11 @@
 
 ### 🏔 About Me
 
-Hello! I'm Joshua Young, a junior web developer in beautiful Nelson, British Columbia, looking for both local and remote opportunities!
+Hello! I'm Joshua Young, a Junior Full-Stack Web Developer residing in beautiful Nelson, British Columbia, open to both local and remote opportunities!
 
-I have a background in Project & Process Management, as well as in Sustainability, and I'm excited about the potential of combining these skillsets with web development to bring about positive change in my community and the world. 
+Formerly a Process Manager at a startup, I solved ambiguous problems by designing, implementing and managing business processes focused on improving efficiency and our margins. I recently transitioned into tech and earned a Web Development Diploma from BrainStation, however, the mission remains the same, to create creative and effective solutions to solve complex problems by leveraging powerful technologies.
 
-As a Venture for Canada Fellow 🇨🇦 I'm also interested in helping Canadian startups scale!!
-
+As a Venure for Canada Fellow 🇨🇦 with a background in Sustainability, I'm also very interested in combining my skillsets to help Canadian startups working on issues of Sustainability or CleanTech to bring about positive change in our communities 🙏 🌎.
 
 
 ### 👨‍🎓 Education
