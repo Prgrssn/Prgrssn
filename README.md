@@ -10,11 +10,14 @@ As a Venture for Canada 🇨🇦 fellow, I'm also interested in helping Canadian
 
 
 ### 👨‍🎓 Education
+
 - BrainStation: Web Development Diploma
 - Lunds Universitet: Master of Science in Human Ecology; Cultuer, Power & Sustainability
 - uOttawa: Honours Bachelor of Social Sciences; Major in Sociology, Minor in Global Studies
 
 ### 👨‍💻 Experience
+
+- 📂 Myind: Technical Founder 
 - 👨‍💼 Freelance: Web Development & Digital Marketing Consultant
 - 🌲 Dynamic Reforestation: Field Operations & Quallity Assurance
 - 👨‍🔬 Skylight Tools Canada Ltd: Process Manager
