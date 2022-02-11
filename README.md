@@ -14,6 +14,12 @@ As a Venture for Canada 🇨🇦 fellow, I'm also interested in helping Canadian
 - Lunds Universitet: Master of Science in Human Ecology; Cultuer, Power & Sustainability
 - uOttawa: Honours Bachelor of Social Sciences; Major in Sociology, Minor in Global Studies
 
+### 👨‍💻 Experience
+- 👨‍💼 Freelance: Web Development & Digital Marketing Consultant
+- 🌲 Dynamic Reforestation: Field Operations & Quallity Assurance
+- 👨‍🔬 Skylight Tools Canada Ltd: Process Manager
+- 📈 Skylight Tools Canada Ltd: Project Manager
+
 
 ### 📫 Contact Me
 
@@ -25,7 +31,7 @@ As a Venture for Canada 🇨🇦 fellow, I'm also interested in helping Canadian
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge" />
 </a>
 
-
+### 🚀 Frameworks I Use
 
 
 
