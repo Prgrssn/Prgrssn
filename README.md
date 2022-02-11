@@ -16,9 +16,15 @@ As a Venture for Canada 🇨🇦 fellow, I'm also interested in helping Canadian
 
 
 ### 📫 Contact Me
+
 <a href="https://www.linkedin.com/in/j-joshuayoung/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-</a>  
+</a>
+
+<a href="mailto:jamesjoshuayoung@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge" />
+</a>
+
 
 
 
