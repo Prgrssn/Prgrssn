@@ -9,13 +9,13 @@ I have a background in Project & Process Management, as well as in Sustainabilit
 As a Venture for Canada 🇨🇦 fellow, I'm also interested in helping Canadian startups scale!!
 
 
-# 👨‍🎓 Education
+## 👨‍🎓 Education
 - BrainStation: Web Development Diploma
 - Lunds Universitet: Master of Science in Human Ecology; Cultuer, Power & Sustainability
 - uOttawa: Honours Bachelor of Social Sciences; Major in Sociology, Minor in Global Studies
 
 
-# 📫 How to reach me:
+## 📫 How to reach me:
 
 
 
