@@ -15,7 +15,7 @@ As a Venture for Canada Fellow 🇨🇦 I'm also interested in helping Canadian 
 - BrainStation: Web Development Diploma
 - Lunds Universitet: Master of Science in Human Ecology; Cultuer, Power & Sustainability
 - uOttawa: Honours Bachelor of Social Sciences; Major in Sociology, Minor in Global Studies
-- 
+
 
 ### 👨‍💻 Experience
 
@@ -28,8 +28,22 @@ As a Venture for Canada Fellow 🇨🇦 I'm also interested in helping Canadian 
 
 ### 🚀 Frameworks I Use
 
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap badge" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express.js badge" />
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase badge" />
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown badge" />
+<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="materialui badge" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node.js badge" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm badge" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman badge" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react badge" />
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="react-router badge" />
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="scss badge" />
+
 
 ### 🌱 I’m currently learning
+
+<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby on rails badge" />
 
 
 ### 📫 Contact Me
