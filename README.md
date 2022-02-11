@@ -1,6 +1,6 @@
-### Hi there! 👋
+## Hi there! 👋
 
-## 🏔 About Me
+### 🏔 About Me
 
 Hello! I'm Joshua Young, a junior web developer in beautiful Nelson, British Columbia looking for both local and remote opportunities!
 
@@ -9,13 +9,17 @@ I have a background in Project & Process Management, as well as in Sustainabilit
 As a Venture for Canada 🇨🇦 fellow, I'm also interested in helping Canadian startups scale!!
 
 
-## 👨‍🎓 Education
+### 👨‍🎓 Education
 - BrainStation: Web Development Diploma
 - Lunds Universitet: Master of Science in Human Ecology; Cultuer, Power & Sustainability
 - uOttawa: Honours Bachelor of Social Sciences; Major in Sociology, Minor in Global Studies
 
 
-## 📫 How to reach me:
+### 📫 Contact Me
+<a href="https://www.linkedin.com/in/j-joshuayoung/">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+</a>  
+
 
 
 
