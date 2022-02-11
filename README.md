@@ -28,6 +28,7 @@ As a Venture for Canada Fellow 🇨🇦 I'm also interested in helping Canadian 
 
 ### 🚀 Frameworks I Use
 
+<div>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap badge" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express.js badge" />
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase badge" />
@@ -39,6 +40,7 @@ As a Venture for Canada Fellow 🇨🇦 I'm also interested in helping Canadian 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react badge" />
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="react-router badge" />
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="scss badge" />
+</div>
 
 
 ### 🌱 I’m currently learning
