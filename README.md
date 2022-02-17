@@ -18,7 +18,7 @@ As a Venure for Canada Fellow 🇨🇦 with a background in Sustainability, I'm 
 
 ### 👨‍💻 Experience
 
-- 📂 Myind: Technical Founder 
+- 🧠 Myind: Technical Founder 
 - 👨‍💼 Freelance: Web Development & Digital Marketing Consultant
 - 🌲 Dynamic Reforestation: Field Operations & Quallity Assurance
 - 👨‍🔬 Skylight Tools Canada Ltd: Process Manager
